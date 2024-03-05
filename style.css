@@ -9,3 +9,10 @@ align-items: center;
 .imagem-cabecalho{
 width: 20%;
 }
+.cabecalho-item{
+display: inline-block;
+
+
+}
+
+
