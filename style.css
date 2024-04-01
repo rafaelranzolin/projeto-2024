@@ -28,4 +28,14 @@ height:313px ;
 }
 .sao-paulo{
 background-image: linear-gradient(#FF0C0C,white);
+color: aliceblue;
+display: flex;
 }
+.conteudo{
+width: 35%;
+
+}
+.sao-titulo{
+    padding: 24px 0px;
+}
+
